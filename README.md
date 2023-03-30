@@ -1,5 +1,8 @@
 # 💫 About Me:
-- 👋 Hi, I’m @AntoIRL<br>- 👀 I’m interested in new technologies and innovations in IT<br>- 🌱 I’m currently learning Software engineering<br>- 📫 How to reach me irlesantonin@gmail.com
+- 👋 Hi, I’m @AntoIRL
+- 👀 I’m interested in new technologies and innovations in IT
+- 🌱 I’m currently learning Software engineering
+- 📫 How to reach me irlesantonin@gmail.com
 
 
 ## 🌐 Socials:
